@@ -1,0 +1,9 @@
+rice_39.jpg banana wrong;rice
+rice_40.jpg egg wrong;rice
+cook-006.jpg banana wrong;cookie
+cook-007.jpg banana wrong;cookie
+appleStr.jpg tomato wrong;apple
+egg1.jpg egg correct;egg
+egg2.jpg egg correct;egg
+tomato6.jpg tomato correct;tomato
+tomato8.jpg hotdog wrong;tomato

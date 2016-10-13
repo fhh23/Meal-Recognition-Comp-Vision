@@ -1,0 +1,9 @@
+rice_39.jpg rice
+rice_40.jpg rice
+cook-006.jpg cookie
+cook-007.jpg cookie
+appleStr.jpg apple strawberry
+egg1.jpg egg
+egg2.jpg egg
+tomato6.jpg tomato
+tomato8.jpg tomato
